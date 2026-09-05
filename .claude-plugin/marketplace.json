@@ -1,0 +1,15 @@
+{
+  "name": "ux-audit-skill",
+  "description": "UX 점검 스킬 배포용 마켓플레이스",
+  "owner": {
+    "name": "snhomeground-cell",
+    "url": "https://github.com/snhomeground-cell"
+  },
+  "plugins": [
+    {
+      "name": "ux-audit",
+      "source": "./",
+      "description": "UX를 절차대로 점검해 검증 가능한 Improvement Backlog로 만드는 Claude Code 스킬"
+    }
+  ]
+}
