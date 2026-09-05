@@ -12,7 +12,14 @@ Observation → Problem → Hypothesis → Recommendation → Verification
 
 ## 설치
 
-저장소를 스킬 폴더로 복제
+Claude Code에서 아래 두 줄 실행 (권장)
+
+```
+/plugin marketplace add snhomeground-cell/ux-audit-skill
+/plugin install ux-audit@ux-audit-skill
+```
+
+수동 설치를 원할 경우 저장소를 스킬 폴더로 복제
 
 ```bash
 git clone https://github.com/snhomeground-cell/ux-audit-skill.git ~/.claude/skills/ux-audit
