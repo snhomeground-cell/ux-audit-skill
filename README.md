@@ -15,7 +15,7 @@ Observation → Problem → Hypothesis → Recommendation → Verification
 저장소를 스킬 폴더로 복제
 
 ```bash
-git clone https://github.com/<계정명>/ux-audit-skill.git ~/.claude/skills/ux-audit
+git clone https://github.com/snhomeground-cell/ux-audit-skill.git ~/.claude/skills/ux-audit
 ```
 
 `SKILL.md` 한 파일만 내려받아 아래 위치에 배치해도 동작
